@@ -2,9 +2,9 @@
 
 
 This repository contains the implementation of an end-to-end pipeline for a customer-facing chatbot with observability, feedback, and analytics using **Phoenix by Arize**. The project demonstrates LLM observability, tracing, evaluation workflows, and human-in-the-loop annotation.
-For a detailed walkthrough of the project, check out the demo video:
+For a detailed walkthrough of the project, check out the demo video:  [![Watch the Demo Video](https://img.youtube.com/vi/Y1J92fNNjNk)](https://www.youtube.com/watch?v=Y1J92fNNjNk)
 
-[![Watch the Demo Video](https://img.youtube.com/vi/Y1J92fNNjNk/0.jpg)](https://www.youtube.com/watch?v=Y1J92fNNjNk)
+![Feedback tool image](feedback_tool_image.png)
 
 ---
 
