@@ -55,7 +55,7 @@ The goal of this project is to create a realistic workflow where the outputs of 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/seezo-chatbot.git
+   git clone https://github.com/Ravindrakapse/Seezo-ChatBot.git
    cd seezo-chatbot
    ```
 2. Install dependencies:
