@@ -24,7 +24,6 @@ if Path(annotated_csv_path).exists():
     # Update only annotation columns from the saved file
     traces.update(annotated_df[['feedback', 'llm_score']], overwrite=True)
 
-
 # Add annotation columns if missing
 if "feedback" not in traces.columns:
     traces["feedback"] = None
@@ -145,7 +144,6 @@ if current_original_index is not None:
             st.success("Feedback saved successfully!")
 else:
     st.warning("No interactions match the current filter criteria.")
-
 
 # Download Button
 st.sidebar.subheader("Download Annotated Dataset")
