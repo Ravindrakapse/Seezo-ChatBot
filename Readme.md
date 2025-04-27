@@ -1,4 +1,4 @@
-# **Seezo ChatBot** 🤖
+# **ChatBot** 🤖
 
 
 This repository contains the implementation of an end-to-end pipeline for a customer-facing chatbot with observability, feedback, and analytics using **Phoenix by Arize**. The project demonstrates LLM observability, tracing, evaluation workflows, and human-in-the-loop annotation.
